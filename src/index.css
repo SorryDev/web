@@ -1,0 +1,13 @@
+body, #root {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+html {
+  background: transparent;
+}
+
+* {
+  box-sizing: border-box;
+}
